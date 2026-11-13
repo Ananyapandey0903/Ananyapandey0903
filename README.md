@@ -1,18 +1,23 @@
 # Hi, I'm Ananya ☁️🛡️
 
-**Cloud Security & Application Security Engineer**
+**Cloud Security Engineer | Application Security Engineer | Test Automation Specialist**
 
-I am leveraging a strong foundation in enterprise test automation (Java, Python, REST APIs) to secure cloud infrastructures and modern web applications. My focus bridges offensive application testing with defensive cloud architecture, ensuring security from the code level up to the AWS perimeter.
+I am transitioning into Cloud Security and Application Security, driven by a focus on securing enterprise infrastructure and modern web applications. My core expertise bridges offensive vulnerability testing with defensive cloud architecture. To enhance this, I actively leverage my prior background in enterprise software engineering and test automation (Java, Python, REST APIs) to build automated, shift-left security workflows from the code level up to the AWS perimeter.
 
 ### ☁️ Cloud & Infrastructure Security
 * **Cloud Platforms:** AWS (IAM, S3, EC2, Lambda, CloudTrail, GuardDuty)
 * **Infrastructure as Code (IaC):** Terraform, Security Logging, Detection Engineering
 * **DevSecOps:** Docker/Container Security, GitHub Actions, SAST/DAST Tooling
 
-### 🛡️ Application Security & Automation
-* **Web & API Security:** OWASP Top 10, REST/GraphQL flaws, BOLA/IDOR
-* **Offensive Tooling:** Burp Suite, Nmap, Wireshark
-* **Automation Engineering:** Python Security Scripting, Rest Assured, Selenium
+### 🛡️ Application Security
+* **Web & API Vulnerabilities:** OWASP Top 10, REST/GraphQL flaws, BOLA/IDOR, Injection Attacks
+* **Offensive Tooling:** Burp Suite, Nmap, Wireshark, OWASP ZAP
+* **Secure Code Triage:** Vulnerability root cause analysis and mitigation strategies
+
+### ⚙️ Automation & Software Engineering
+* **Languages & Scripting:** Python, Java, SQL, Bash
+* **Security Automation:** Java requests for API fuzzing and exploit scripting
+* **Enterprise Test Frameworks:** Rest Assured, Selenium, Appium.
 
 ### 🚀 Featured Security Projects
 * **[Building] AWS Serverless Honeypot & Automated IR:** Deploying vulnerable infrastructure via Terraform, logging attacks with CloudTrail/GuardDuty, and automating IP blocking using Python Lambda and EventBridge.
